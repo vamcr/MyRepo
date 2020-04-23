@@ -1,2 +1,2 @@
 apply plugin : 'application'
-mainClassName : 'demo.HelloGradle'
+mainClassName : 'HelloGradle'
